@@ -14,9 +14,11 @@ Here are the major packages
 You should new a file witch name is `.env` to set the environment variables 
 
 ```
-MONGO_URI="xxxxxx"
+# mongodb url
+MONGO_URI="xxxxxx" 
 
-SQS_WECHATY_URL="xxxxxx"
+# aws sqs url
+SQS_WECHATY_URL="xxxxxx" (aws sqs)
 
 WECHATY_PADPLUS_TOKEN="xxxx"
 
@@ -24,6 +26,7 @@ NODE_ENV=production
 
 QRCODE_IMAGE_URL=https://api.qrserver.com/v1/create-qr-code/?data=
 
+#slack url
 SLACK_TOKEN="xxxx"
 
 ```
