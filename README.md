@@ -18,7 +18,7 @@ You should new a file witch name is `.env` to set the environment variables
 MONGO_URI="xxxxxx" 
 
 # aws sqs url
-SQS_WECHATY_URL="xxxxxx" (aws sqs)
+SQS_WECHATY_URL="xxxxxx"
 
 WECHATY_PADPLUS_TOKEN="xxxx"
 
