@@ -30,7 +30,7 @@
     "cron": "^1.7.2",
     "dotenv": "6.2.0",
     "joi": "14.3.0",
-    "moment": "2.23.0",
+    "moment": "2.29.4",
     "mongoose": "5.4.0",
     "qrcode-terminal": "0.12.0",
     "reflect-metadata": "0.1.12",
